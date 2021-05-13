@@ -1,0 +1,14 @@
+# Files
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+# DB
+db.sqlite3
+media
+
+# Folders
+venv/
+__pycache__/
+.idea/
